@@ -19,6 +19,8 @@
 <br />
 </label>
 <label>
+<input type="radio" "name=r2" value="sub" />subtraction
+<br />
 
  
 </div>
